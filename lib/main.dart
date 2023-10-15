@@ -362,8 +362,6 @@ class _PostDetailsPageState extends State<PostDetailsPage> {
         commentController.clear();
       });
 
-      print('Comment added successfully.');
-
       // Now, the comment is stored locally.
     }
   }
