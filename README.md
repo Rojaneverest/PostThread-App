@@ -9,7 +9,7 @@ Welcome to the Flutter Social App! This application allows users to view and int
 - View a list of user posts with titles and excerpts.
 - Scroll through the posts to discover various content.
 
-    <img src="screenshots/home_screen.png" height="450">
+    <img src="screenshots/home_screen.jpg" height="450">
 
 ### Post Detail with Comments
 
