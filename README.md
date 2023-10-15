@@ -1,6 +1,6 @@
 # Flutter PostThread App
 
-Welcome to the Flutter Social App! This application allows users to view and interact with posts, user profiles, comments, and albums with photos. 
+Welcome to the Flutter PostThread App! This application allows users to view and interact with posts, user profiles, comments, and albums with photos. 
 
 ## Features
 
@@ -32,8 +32,8 @@ Welcome to the Flutter Social App! This application allows users to view and int
   - A list of the user's posts.
   - A list of the user's to-do tasks.
   - An album containing photos associated with the user.
-
-    ![](screenshots/user_detail.png)   ![](screenshots/user_post.png)  ![](screenshots/user_todo.png) ![](screenshots/user_albums.png) 
+ 
+    ![](screenshots/user_detail.png)    ![](screenshots/user_post.png)    ![](screenshots/user_todo.png)    ![](screenshots/user_albums.png) 
 
    
 ### User Albums with Photos
@@ -42,7 +42,7 @@ Welcome to the Flutter Social App! This application allows users to view and int
 - Click on an album to see a collection of photos.
 - Open photos for a larger view.
 
-    ![](screenshots/user_albums.png) ![](screenshots/user_photos.png) ![](screenshots/photo_detail.png) 
+    ![](screenshots/user_albums.png)    ![](screenshots/user_photos.png)    ![](screenshots/photo_detail.png) 
 
     
 
