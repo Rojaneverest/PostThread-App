@@ -33,22 +33,17 @@ Welcome to the Flutter Social App! This application allows users to view and int
   - A list of the user's to-do tasks.
   - An album containing photos associated with the user.
 
-    ![](screenshots/user_detail.png) 
+    ![](screenshots/user_detail.png)   ![](screenshots/user_post.png)  ![](screenshots/user_todo.png) ![](screenshots/user_albums.png) 
 
-    ![](screenshots/user_post.png) 
-
-    ![](screenshots/user_todo.png) 
-
-    ![](screenshots/user_albums.png) 
-
+   
 ### User Albums with Photos
 
 - Navigate to the user's albums to view a list of albums.
 - Click on an album to see a collection of photos.
 - Open photos for a larger view.
 
-    ![](screenshots/user_albums.png) 
+    ![](screenshots/user_albums.png) ![](screenshots/user_photos.png) ![](screenshots/photo_detail.png) 
 
-    ![](screenshots/user_photos.png) 
+    
 
-    ![](screenshots/photo_detail.png) 
+    
